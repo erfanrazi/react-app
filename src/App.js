@@ -16,7 +16,7 @@ export default function App() {
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{" "}
+          </a>
         </footer>
       </div>
     </div>
